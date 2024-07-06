@@ -1,0 +1,1 @@
+# CNN-and-SVM-for-Early-Detection-of-Alzheimer-s-
